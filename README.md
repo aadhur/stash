@@ -112,4 +112,4 @@ MIT
 
 ---
 
-<sub>built by <a href="https://github.com/aadhur">aadhur</a> · made for the terminal</sub>
+built by <a href="https://github.com/aadhur">aadhur</a> · made for the terminal
