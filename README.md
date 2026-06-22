@@ -106,10 +106,4 @@ stash end      # close the session
 
 ---
 
-## License
-
-MIT
-
----
-
 built by <a href="https://github.com/aadhur">aadhur</a> · made for the terminal
